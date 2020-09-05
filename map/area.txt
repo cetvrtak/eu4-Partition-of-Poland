@@ -701,7 +701,7 @@ podolia_volhynia_area = { #3
 }
 
 volhynia_area = { # 4
-	279 2962 4539 4538
+	279 2962 4539
 }
 
 pripyat_area = { #4
@@ -721,7 +721,7 @@ central_poland_area = {
 }
 
 sandomierz_area = {
-	260 2959 259   
+	260 2959 259 4538   
 }
 
 kuyavia_area = {
@@ -729,11 +729,11 @@ kuyavia_area = {
 }
 
 samogitia_area = { #4
-	270 271 1936 4534 
+	270 271 1936 4534 4536
 }
 
 lithuania_area = { #5
-	272 770 4535 4536
+	272 770 4535
 }
 
 west_dniepr_area = { #4 Right Bank Ukraine
@@ -1097,11 +1097,11 @@ slovakia_area = { #5
 }
 
 serbia_area = { #5
-	141 3000 4176 4239 4757
+	141 4176 4239 4757
 }
 
 rascia_area = { #4
-	138 1766 1827 4754
+	138 1766 1827 3000 4754
 }
 
 albania_area = { #4

@@ -45,7 +45,7 @@
 4534 = "Upyte"
 4535 = "Vilkmerge"
 770 = "Breslauja"
-4536 = "Lyda"
+4536 = "Alytus"
 4537 = "Naugardukas"
 4545 = "Sluckas"
 4539 = "Kremenecas"
