@@ -173,7 +173,6 @@
 4523 = "Inowrazlaw"
 4524 = "Dobrin"
 4526 = "Gnesen"
-4527 = "Kielce"
 4528 = "Kujawien"
 4533 = "Welun"
 4541 = "Drohobytsch"

@@ -689,7 +689,7 @@ wielkopolska_area = { #5
 }
 
 malopolska_area = { #5
-	262 4527 2960
+	262 259 2960
 }
 
 red_ruthenia_area = { #5 
@@ -721,7 +721,7 @@ central_poland_area = {
 }
 
 sandomierz_area = {
-	260 2959 259 4538   
+	260 2959 4527 4538   
 }
 
 kuyavia_area = {
